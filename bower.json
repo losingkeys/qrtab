@@ -1,0 +1,23 @@
+{
+  "name": "qrtab",
+  "version": "0.0.1",
+  "authors": [
+    "Joshua Hoff <randomenduser@gmail.com>"
+  ],
+  "description": "Shows and reads QR codes to easily open links in different devices.",
+  "main": "index.html",
+  "keywords": [
+    "qr",
+    "chrome",
+    "chromium",
+    "addon",
+    "browser"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
